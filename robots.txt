@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohfexoefo.ykubota.com/sitemap.xml
